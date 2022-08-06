@@ -8,7 +8,7 @@ I have implemented Linear Regression model and LSTM in two ways
 
 .check for duplication 
 
-.check for outliers using boxblot and skewness
+.check for outliers using boxplot and skewness
 
 2-Feature Scaling
 
